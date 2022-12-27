@@ -1,12 +1,13 @@
+import PublicHeader from '../components/headers/PublicHeader';
 import './globals.css'
-import Header from "./Header";
+
 
 export default function RootLayout({ children }) {
   return (
     <html>
       <head />
       <body>
-        <Header />
+        <PublicHeader />
         {children}
       </body>
     </html>
