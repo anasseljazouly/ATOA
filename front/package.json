@@ -1,5 +1,5 @@
 {
-  "homepage": "http://anasseljazouly.github.io/ATOA",
+  "homepage": "http://anasseljazouly.github.io/ATOA/tree/main/front",
   "private": true,
   "scripts": {
     "dev": "next dev",
